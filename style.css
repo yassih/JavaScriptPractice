@@ -1,0 +1,14 @@
+body {
+	background-color: orange;
+}
+.reveal * {
+	display: none;
+}
+.reveal *.handle {
+	display: block;
+}
+#clock{
+	background-color: #dfffff;
+	border :2px solid black;
+	font-size: 50pt;
+}
